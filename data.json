@@ -1,0 +1,28 @@
+{
+    "slides": [
+        {
+            "style": "background-image: linear-gradient( to bottom right, lightblue, blue );",
+            "content": "<h1>OBRAS DE ARTE<br>QUE O PEDRO GOSTA</h1>"
+        },
+        {
+            "style": "background-image: url('./images/ultima-ceia.jpg'); justify-content: start;",
+            "content":  "<h1>A Última Ceia</h1><h2>Leonardo Da Vinci</h2> <p>O trabalho presume-se que tenha sido iniciado por volta de 1495-96 e foi encomendado como parte de um plano de reformas na igreja e nos seus edifícios conventuais pelo patrono de Leonardo, Ludovico Sforza, duque de Milão.</p><p>Representa o episódio bíblico da Última Ceia de Jesus com os Apóstolos antes de ser preso e crucificado. É um dos bens culturais mais conhecidos e estimados do mundo. </p>"
+        },
+        {
+            "style": "background-image: url('./images/escola_de_atenas.jpg'); justify-content: start;",
+            "content": "<h1>A Escola de Athenas</h1><h2>Rafael</h2>"
+        },
+        {
+            "style": "background-image: url('./images/a_cadeira.jpg'); justify-content: start;",
+            "content": "<h1>A Cadeira</h1><h2>Vincent Van Gogh</h2>"
+        },
+        {
+            "style": "background-image: url('./images/Narciso.webp'); justify-content: start;",
+            "content": "<h1>Narciso</h1><h2>Caravaggio</h2>"
+        },
+        {
+            "style": "background-image: linear-gradient( to bottom right, crimson, tomato );",
+            "content": "<h1>FIM</h1>"
+        }
+    ]
+}

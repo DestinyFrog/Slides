@@ -1,0 +1,56 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  color: azure;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  transition: transform 1250ms;
+  overflow: hidden;
+}
+
+.slide {
+  width: 100vw;
+  height: 100vh;
+  display: inline-block;
+  background-color: cornflowerblue;
+}
+.slide .container {
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between5;
+  flex-direction: column;
+  height: 100%;
+  padding: 16px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: darken;
+  transition: background 400ms;
+  transition: align-itens 400ms;
+}
+.slide .container:hover {
+  background-size: contain;
+  align-items: baseline;
+  background-position: center right;
+}
+
+img {
+  width: 520px;
+}
+
+p {
+  font-size: 18px;
+}
+
+h1, h2, p {
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 8px;
+  border-radius: 10px;
+  max-width: 300px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=style.css.map */
